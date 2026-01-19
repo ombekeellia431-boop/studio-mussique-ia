@@ -1,0 +1,7 @@
+librosa
+pydub
+torchaudio
+nltk
+transformers
+tensorflow
+torch
