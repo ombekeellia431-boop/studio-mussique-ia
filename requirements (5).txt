@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+moviepy
+numpy
+scipy
+torch
+transformers
+streamlit
+audiocraft
+
+print("requirements.txt created successfully.")
